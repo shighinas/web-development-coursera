@@ -1,0 +1,14 @@
+.navbar-brand {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.head {
+  margin-top: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.content {
+  background-color: #bbbbbb;
+  height: 1000px;
+}
